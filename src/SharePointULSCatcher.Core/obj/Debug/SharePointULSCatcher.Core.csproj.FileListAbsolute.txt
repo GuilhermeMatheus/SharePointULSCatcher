@@ -1,0 +1,5 @@
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher.Core\bin\Debug\SharePointULSCatcher.Core.dll
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher.Core\bin\Debug\SharePointULSCatcher.Core.pdb
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher.Core\obj\Debug\SharePointULSCatcher.Core.dll
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher.Core\obj\Debug\SharePointULSCatcher.Core.pdb
+C:\Users\svc.sharepointcptm\Documents\Visual Studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher.Core\obj\Debug\SharePointULSCatcher.Core.csprojResolveAssemblyReference.cache

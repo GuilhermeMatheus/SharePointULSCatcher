@@ -1,0 +1,20 @@
+c:\users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.exe.config
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.exe
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.pdb
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.Core.dll
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.Core.pdb
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.csprojResolveAssemblyReference.cache
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\MainWindow.baml
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\MainWindow.g.cs
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\App.g.cs
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher_MarkupCompile.cache
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.g.resources
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.Properties.Resources.resources
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.csproj.GenerateResource.Cache
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.exe
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.pdb
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\svc.sharepointcptm\documents\visual studio 2013\Projects\SharePointULSCatcher\SharePointULSCatcher\obj\Debug\SharePointULSCatcher_MarkupCompile.lref
+C:\Users\costa\Documents\GitHub\SharePointULSCatcher\src\SharePointULSCatcher\bin\Debug\SharePointULSCatcher.exe.config
+C:\Users\costa\Documents\GitHub\SharePointULSCatcher\src\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.exe
+C:\Users\costa\Documents\GitHub\SharePointULSCatcher\src\SharePointULSCatcher\obj\Debug\SharePointULSCatcher.pdb
